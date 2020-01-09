@@ -1,4 +1,4 @@
-# AssemblyNuberCrushGame
+# AssemblyNumberCrushGame
 ![Test Image 7](https://github.com/KhizarShabir1/AssemblyNuberCrushGame/blob/master/gamePics/1.png)
 ![Test Image 8](https://github.com/KhizarShabir1/AssemblyNuberCrushGame/blob/master/gamePics/2.png)
 ![Test Image 9](https://github.com/KhizarShabir1/AssemblyNuberCrushGame/blob/master/gamePics/3.png)
